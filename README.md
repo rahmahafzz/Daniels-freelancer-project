@@ -1,9 +1,11 @@
 # Daniels-freelancer-project
-A modern personal portfolio website built using HTML, CSS, and JavaScript — featuring smooth scrolling, responsive layout, and elegant animations to showcase projects and skills professionally.
+A modern personal portfolio website built using HTML, CSS, JavaScript and Bootstrap, this project delivers a clean, modern interface optimized for all devices
+— featuring smooth scrolling, responsive layout, and elegant animations to showcase projects and skills professionally.
 
 Daniels — Personal Portfolio Website
 
-A sleek and responsive personal portfolio website built to showcase creative projects, skills, and achievements with a professional and elegant design. Crafted using HTML, CSS, and Bootstrap, this project delivers a clean, modern interface optimized for all devices.
+A sleek and responsive personal portfolio website built to showcase creative projects, skills, and achievements with a professional and elegant design. 
+
 
  Live Demo
 
