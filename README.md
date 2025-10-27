@@ -7,7 +7,7 @@ A sleek and responsive personal portfolio website built to showcase creative pro
 
  Live Demo
 
-View the site live here: https://rahmahafzz.github.io/Daniels/
+View the site live here:  [ https://rahmahafzz.github.io/Daniels-freelancer-project/  ]
 
 💡 Features
 
@@ -46,6 +46,8 @@ Daniels/
 │
 ├── images/
 │   └── (portfolio assets)
+│ 
+├── webfonts/
 │
 └── README.md
 
@@ -55,7 +57,7 @@ To view the website locally:
 
 1. Clone the repository
 
-   git clone https://github.com/rahmahafzz/Daniels.git
+   git clone https://github.com/rahmahafzz/Daniels-freelancer-project.git
 
 
 2. Open the folder
@@ -85,7 +87,7 @@ Created by Rahma Hafez
 
  Email: hafezrhma@gmail.com
 
- Portfolio: rahmahafzz.github.io/Daniels
+ Portfolio: rahmahafzz.github.io/Daniels-freelancer-project/
 
  License
 
